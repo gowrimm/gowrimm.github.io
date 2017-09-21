@@ -1,0 +1,153 @@
+
+// General Styles
+// ====================================================================
+
+
+body,
+html {
+    height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Montserrat';
+    text-align: center;
+    }
+
+
+
+.header
+{
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url("https://static.pexels.com/photos/373076/pexels-photo-373076.jpeg");
+    background-color: rgba(0,0,0,0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+
+}
+
+.menu_link {
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    padding: 1rem;
+    font-size: 2rem;
+    z-index: 4;
+    position: relative;
+    cursor: pointer;
+    cursor: hand;
+    text-shadow: 0 0 0.1rem white;
+    border-bottom: 1px solid transparent;
+    -webkit-transition: border 800ms;
+    transition: border 800ms;
+    color: #ffffff;
+}
+
+.menu_link:hover {
+    text-shadow: 0 0 0.3rem white;
+    color: #ffffff;
+    text-decoration: none;
+    border-bottom: 2px solid #ffffff;
+}
+.a
+{
+height: 100%;
+z-index: 1;
+}
+a,a:hover,
+a:active,
+a:focus,
+a:visited {
+   text-decoration:none;
+    color:white;
+}
+.aimg
+{
+    margin-top: 0.5rem;
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/67I4X2UIYU.jpg");
+    background-color: rgba(0,0,0,0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+
+}
+
+
+.bimg
+{
+    margin-top: 0.5rem;
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url("https://static.pexels.com/photos/159417/macbook-laptop-computer-technology-159417.jpeg");
+    background-color: rgba(0,0,0,0.8);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+
+}
+
+
+.cimg {
+    margin-top: 0.5rem;
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url("https://static.pexels.com/photos/209695/pexels-photo-209695.jpeg");
+    background-color: rgba(0,0,0,0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+}
+
+
+
+
+#hlpin {
+
+}
+
+#content-title {
+    color: white;
+    font-size: rem;
+    padding-top: 25%;
+}
+
+
+
+#mypic:hover
+{
+        -webkit-box-shadow: 0 0 0.5em 0.1em white;
+    box-shadow: 0 0 0.5em 0.1em white;
+}
+
+
+
+#box1 {
+    overflow:hidden;
+    height: 60vh;
+    width: 40vw;
+    float: center;
+    margin-left: 27rem;
+    padding: 3rem;
+    border-style: dashed;
+}
+
+#box2 {
+    overflow:hidden;
+    height: 60vh;
+    width: 25vw;
+    float: right;
+    margin-right: 20vw;
+    padding: 3rem;
+    border-style: dashed;
+}
