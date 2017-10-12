@@ -26,7 +26,7 @@ h6{
 
     min-height: 100vh;
     min-width: 100vw;
-    background: url("https://static.pexels.com/photos/373076/pexels-photo-373076.jpeg");
+    background: url("slide1.jpg");
     background-color: rgba(0,0,0,0.5);
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +73,7 @@ a:visited {
     margin-top: -0.5rem;
     min-height: 100vh;
     min-width: 100vw;
-    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/67I4X2UIYU.jpg");
+    background: url("slide2.jpg");
     background-color: rgba(0,0,0,0.6);
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,7 +88,7 @@ a:visited {
     margin-top: 0.2rem;
     min-height: 100vh;
     min-width: 100vw;
-    background: url("https://static.pexels.com/photos/159417/macbook-laptop-computer-technology-159417.jpeg");
+    background: url("slide3.jpg");
     background-color: rgba(0,0,0,0.8);
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +102,7 @@ a:visited {
     margin-top: 0.2rem;
     min-height: 100vh;
     min-width: 100vw;
-    background: url("https://static.pexels.com/photos/209695/pexels-photo-209695.jpeg");
+    background: url("slide4.jpg");
     background-color: rgba(0,0,0,0.6);
     background-repeat: no-repeat;
     background-size: cover;
